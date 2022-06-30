@@ -250,19 +250,6 @@ class IntGroup:
             self.returnPosition = -1
         return self.returnPosition
 
-    #Author: Manu N
-    #Date: June 11 2022
-    #Purpose: To check is the list is sorted
-    #Input: Array
-    #Output: Boolean status for sorted array
-    #Parameters: self
-    #Returns: Boolean status showcasing if its sorted or not 
-##    def isSorted(self):
-##        sortedList = self.partitions.sort()
-##        for intNumbers in self.partitions:
-##            
-       
-
 # Input: User enters a positive integer 
 # Purpose: Checking to see the number the user inputed is correct (not a string, not a negative int, not a number that doesn't fit the boundaryt ) - PY2
 # Source: October 12, 2022 Mr.Smith sanbox 
